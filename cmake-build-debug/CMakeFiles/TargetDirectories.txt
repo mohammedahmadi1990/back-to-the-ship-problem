@@ -1,0 +1,3 @@
+D:/PHH_25.01.2023_Dan/cmake-build-debug/CMakeFiles/PHH_25_01_2023_Dan.dir
+D:/PHH_25.01.2023_Dan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PHH_25.01.2023_Dan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
